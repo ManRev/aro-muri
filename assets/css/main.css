@@ -154,13 +154,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #f56a6a;
+		color: #a7322b;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: #a7322b;
+			color: #a7322b !important;
 		}
 
 			a:hover strong {
@@ -1798,7 +1798,7 @@ input, select, textarea {
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #f56a6a;
+		border-bottom: solid 3px #a7322b;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -1865,8 +1865,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #a7322b;
+			box-shadow: 0 0 0 1px #a7322b;
 		}
 
 	select {
@@ -1974,8 +1974,8 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f56a6a;
-			box-shadow: 0 0 0 1px #f56a6a;
+			border-color: #a7322b;
+			box-shadow: 0 0 0 1px #a7322b;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2313,7 +2313,7 @@ input, select, textarea {
 			}
 
 			ul.contact li:before {
-				color: #f56a6a;
+				color: #a7322b;
 				display: inline-block;
 				font-size: 1.5em;
 				height: 1.125em;
@@ -2372,7 +2372,7 @@ input, select, textarea {
 			}
 
 				ul.pagination li > .page.active {
-					background-color: #f56a6a;
+					background-color: #a7322b;
 					color: #ffffff !important;
 				}
 
@@ -2490,17 +2490,17 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 0.375em;
 		border: 0;
-		box-shadow: inset 0 0 0 2px #f56a6a;
-		color: #f56a6a !important;
+		box-shadow: inset 0 0 0 2px #a7322b;
+		color: #a7322b !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
-		font-size: 0.8em;
+		font-size: 0.6em;
 		font-weight: 700;
-		height: 3.5em;
+		height: 3em;
 		letter-spacing: 0.075em;
-		line-height: 3.5em;
-		padding: 0 2.25em;
+		line-height: 3em;
+		padding: 0 1.25em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2562,7 +2562,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #f56a6a;
+			background-color: #a7322b;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2679,7 +2679,7 @@ input, select, textarea {
 			}
 
 				.features article .icon:before {
-					color: #f56a6a;
+					color: #a7322b;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3332,7 +3332,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #f56a6a;
+		border-bottom: solid 5px #a7322b;
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
@@ -3527,7 +3527,7 @@ input, select, textarea {
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #a7322b;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -3565,7 +3565,7 @@ input, select, textarea {
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #f56a6a;
+					color: #a7322b;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
